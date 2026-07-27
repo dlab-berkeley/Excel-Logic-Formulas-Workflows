@@ -1,6 +1,6 @@
 # D-Lab Excel Logic, Formulas, and Analytical Workflows Workshop
 
-[![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](LINK)
+[![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1ckW5lPFEfJKZvP9164uOmO8TF5qnPTwq5YR5-AsGPn8/edit?slide=id.g3bc435259fc_0_361#slide=id.g3bc435259fc_0_361)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
@@ -40,7 +40,7 @@ Before the workshop:
 1. Make sure Microsoft Excel is installed on your computer or available through Microsoft 365.
 2. Download the workshop workbook from this repository or the linked Google Drive folder.
 3. Open the workbook in Microsoft Excel.
-4. Open the [workshop slides](LINK).
+4. Open the [workshop slides](https://docs.google.com/presentation/d/1ckW5lPFEfJKZvP9164uOmO8TF5qnPTwq5YR5-AsGPn8/edit?slide=id.g3bc435259fc_0_361#slide=id.g3bc435259fc_0_361).
 5. Save a copy of the workbook before beginning the exercises.
 
 ## Workshop Materials

@@ -47,20 +47,8 @@ Before the workshop:
 
 This repository includes:
 
-- Workshop slides
-- Excel workbook / dataset
-- Hands-on formula and workflow exercises
-- Supporting resources, if included
-
-## Additional Resources
-
-Check out the following resources to learn more about Excel:
-
-- Microsoft Excel Support
-- ExcelJet
-- LinkedIn Learning
-- Dictionary of Excel Functions
-- D-Lab Workshop Catalog
+- [Workshop slides](https://docs.google.com/presentation/d/1OI91R5Iu6auNDFxiG3wjagVeiw7QvO_vM-Fp9tCapCc/edit?slide=id.g3cf96b3aeb8_0_328#slide=id.g3cf96b3aeb8_0_328)
+- [Excel workbook / dataset](https://docs.google.com/spreadsheets/d/1GfYe7ulcbb5Ki75DvuWt1H_42c17WH8o/)
 
 ## About the UC Berkeley D-Lab
 
